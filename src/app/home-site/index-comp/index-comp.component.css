@@ -1,0 +1,19 @@
+.img-logo{
+
+    text-align: center;
+}
+
+.product .img-responsive {
+    margin: 0 auto;
+}
+
+
+.acertar-cabecalho{
+
+    padding-top: 100px;
+}
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
